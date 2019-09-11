@@ -37,7 +37,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0'
 }
 
-TG_BOT_TOKEN = 831824871:AAFsHCklhY4JWX9JuhXXVNby6NKJF-eFKP0
+TG_BOT_TOKEN = "739443555:AAH1fNTnVfOIieCIx_Z-LyewYVn68D9MmTk"
 botan_token = sys.argv[2]
 botan = Botan()
 
