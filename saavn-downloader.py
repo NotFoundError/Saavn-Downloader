@@ -38,8 +38,7 @@ headers = {
 }
 
 TG_BOT_TOKEN = "739443555:AAH1fNTnVfOIieCIx_Z-LyewYVn68D9MmTk"
-botan_token = sys.argv[2]
-botan = Botan()
+
 
 base_url = 'http://h.saavncdn.com'
 
